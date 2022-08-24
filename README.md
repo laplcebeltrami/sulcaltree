@@ -8,5 +8,9 @@ Medical Imaging 39:2201-2212  https://pages.stat.wisc.edu/~mchung/papers/huang.2
 
 ![alt text](https://github.com/laplcebeltrami/sulcaltree/blob/main/sulcalpattern.png?raw=true)
 
+
+![alt text](https://github.com/laplcebeltrami/sulcaltree/blob/main/resampled.png?raw=true)
+
+
 (C) 2022- Moo K. Chung
 University of Wisconsin-Madison
