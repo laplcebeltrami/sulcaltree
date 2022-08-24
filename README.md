@@ -6,7 +6,7 @@ Huang, S.-G., Lyu, I., Qiu, A., Chung, M.K. 2020. Fast polynomial approximation 
 Medical Imaging 39:2201-2212  https://pages.stat.wisc.edu/~mchung/papers/huang.2020.TMI.pdf
 
 
-
+![alt text](https://github.com/laplcebeltrami/circle/blob/main/CC.jpg?raw=true)
 
 (C) 2022- Moo K. Chung
 University of Wisconsin-Madison
