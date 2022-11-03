@@ -11,8 +11,7 @@ We can perform the heat kernel smoothing using SPHARM based on
 
 Chung, M.K., Dalton, K.M., Shen, L., L., Evans, A.C., Davidson, R.J. 2007. Weighted Fourier series representation and its application to quantifying the amount of gray matter. Special Issue of  IEEE Transactions on Medical Imaging 26:566-581. 
 
-See https://pages.stat.wisc.edu/~mchung/softwares/weighted-SPHARM/weighted-SPHARM.html for additional codes
-The method can resample mesh sizes and reduce the data size further.
+See https://pages.stat.wisc.edu/~mchung/softwares/weighted-SPHARM/weighted-SPHARM.html for additional codes. The method can resample mesh sizes and reduce the data size further.
 
 ![alt text](https://github.com/laplcebeltrami/sulcaltree/blob/main/sulcalpattern.png?raw=true)
 
