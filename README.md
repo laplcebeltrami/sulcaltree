@@ -1,6 +1,11 @@
 ## Sulcal Pattern Matching with the Wasserstein Distance
 
 
+SCRIPT3_validation.m performs the Validation against the Hungarian Algorithm in 
+Chen, Z., Das, S., Chung, M.K. 2023, Sulcal Pattern Matching with the Wasserstein Distance, 
+% International Symposium in Biomedcial Imaging (ISBI)
+
+
 SCRIPT.m generating sulcal tree patterns below published in 
 
 ![alt text](https://github.com/laplcebeltrami/sulcaltree/blob/main/resampled.png?raw=true)
