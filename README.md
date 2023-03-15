@@ -9,7 +9,8 @@ https://github.com/laplcebeltrami/sulcaltree/blob/main/chen.2023.ISBI.pdf
 
 SCRIPT3_validation.m performs the Validation against the Hungarian Algorithm in Section 3.1.
 
-
+(C) 2022- Zijian Chen, Moo K. Chung
+University of Wisconsin-Madison
 
 
 
@@ -37,5 +38,5 @@ See https://pages.stat.wisc.edu/~mchung/softwares/weighted-SPHARM/weighted-SPHAR
 
 
 
-(C) 2022- Zijian Chen, Moo K. Chung
+(C) 2022- Moo K. Chung
 University of Wisconsin-Madison
