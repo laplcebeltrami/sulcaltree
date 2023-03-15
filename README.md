@@ -1,4 +1,5 @@
-### Sulcal/gyral tree data
+### Sulcal Pattern Matching with the Wasserstein Distance
+
 
 SCRIPT.m generating sulcal tree patterns below published in 
 
@@ -19,5 +20,5 @@ See https://pages.stat.wisc.edu/~mchung/softwares/weighted-SPHARM/weighted-SPHAR
 
 
 
-(C) 2022- Moo K. Chung
+(C) 2022- Zijian Chen, Moo K. Chung
 University of Wisconsin-Madison
