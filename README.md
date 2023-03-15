@@ -3,7 +3,9 @@
 
 SCRIPT3_validation.m performs the Validation against the Hungarian Algorithm in 
 Chen, Z., Das, S., Chung, M.K. 2023, Sulcal Pattern Matching with the Wasserstein Distance, 
-% International Symposium in Biomedcial Imaging (ISBI)
+International Symposium in Biomedcial Imaging (ISBI)
+https://github.com/laplcebeltrami/sulcaltree/blob/main/chen.2023.ISBI.pdf
+
 
 
 SCRIPT.m generating sulcal tree patterns below published in 
