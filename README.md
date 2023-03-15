@@ -12,6 +12,12 @@ SCRIPT3_validation.m performs the Validation against the Hungarian Algorithm in 
 
 
 
+
+
+
+
+## SPHARM modeling of sucal pattern
+
 SCRIPT.m generating sulcal tree patterns below published in 
 
 ![alt text](https://github.com/laplcebeltrami/sulcaltree/blob/main/resampled.png?raw=true)
