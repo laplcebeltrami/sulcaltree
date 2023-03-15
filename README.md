@@ -1,4 +1,4 @@
-### Sulcal Pattern Matching with the Wasserstein Distance
+## Sulcal Pattern Matching with the Wasserstein Distance
 
 
 SCRIPT.m generating sulcal tree patterns below published in 
