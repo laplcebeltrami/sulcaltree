@@ -22,7 +22,7 @@
 %                         TRIANGULATION by Chen
 
 
-% Section 2.1.
+%% Section 2.1.
 
 %spherical mesh of two subjects
 sphereL1 = gifti('sphereL1.gii');
@@ -53,10 +53,8 @@ sphL_v_sph_1(:,2)=sphL_v_sph_1(:,2)+pi/2;
 box_mesh_1.vertices = sphL_v_sph_1;
 box_mesh_1.faces=sphereL1.faces;
 
-% adjust raw sulcal pattern to cut abnormal connection that cross the whole
-% box (since we cannot display the periodicity)
-% NOTE: This is for display only. Do not use in further processing.
-newSulcalL1 = curve_adjust(box_mesh_1, sulcalL1)';
+% adjust raw sulcal pattern to cut abnormal connection that cross the whole box 
+newSulcalL1 = scurve_adjust(box_mesh_1, sulcalL1)';
 % display projection
 figure; scurve_display_2d(box_mesh_1, newSulcalL1,'r');
 
@@ -73,7 +71,7 @@ newSulcalL2 = curve_adjust(box_mesh_2, sulcalL2)';
 figure; scurve_display_2d(box_mesh_2, newSulcalL2,'r');
 
 
-% Section 2.2. 
+%% Section 2.2. 
 
 
 % Smoothing and resampling (Fig.2)
