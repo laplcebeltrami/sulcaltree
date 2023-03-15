@@ -6,8 +6,12 @@ Chen, Z., Das, S., Chung, M.K. 2023, Sulcal Pattern Matching with the Wasserstei
 International Symposium in Biomedcial Imaging (ISBI)
 https://github.com/laplcebeltrami/sulcaltree/blob/main/chen.2023.ISBI.pdf
 
+SCRIPT1_dataPreprocess.m prepares data and performs heat kernel smoothing (Section 2.1, Section 2.2)
+SCRIPT3_validation.m performs the Validation against the Hungarian Algorithm (Section 3.1)
 
-SCRIPT3_validation.m performs the Validation against the Hungarian Algorithm in Section 3.1.
+
+
+
 
 (C) 2022- Zijian Chen, Moo K. Chung
 University of Wisconsin-Madison
