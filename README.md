@@ -6,6 +6,7 @@ Chen, Z., Das, S., Chung, M.K. 2023, Sulcal Pattern Matching with the Wasserstei
 International Symposium in Biomedcial Imaging (ISBI)
 https://github.com/laplcebeltrami/sulcaltree/blob/main/chen.2023.ISBI.pdf
 
+
 SCRIPT1_dataPreprocess.m prepares data and performs heat kernel smoothing (Sections 2.1 and 2.2)
 
 SCRIPT2_registration.m performs the Wasserstein disatnce based sulcal pattern matching (Sections 2.3 and 2.4) 
