@@ -1,6 +1,7 @@
 ## Designing Conistent Cortical Surface Features
 
-
+(Chung et al. 2024)
+[https://github.com/laplcebeltrami/sulcaltree/blob/main/chung.2024.OHBM.pdf] is presented during OHBM 2024.
 
 ## Sulcal Pattern Matching with the Wasserstein Distance
 
