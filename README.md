@@ -1,17 +1,14 @@
 ## Designing Conistent Cortical Surface Features
 
-(Chung et al. 2024)
-[https://github.com/laplcebeltrami/sulcaltree/blob/main/chung.2024.OHBM.pdf] is presented during OHBM 2024.
+[Chung et al. 2024]
+(https://github.com/laplcebeltrami/sulcaltree/blob/main/chung.2024.OHBM.pdf) is presented in OHBM 2024.
 
 ## Sulcal Pattern Matching with the Wasserstein Distance
 
 The method and codes are published in 
 
-Chen, Z., Das, S., Chung, M.K. 2023, Sulcal Pattern Matching with the Wasserstein Distance, 
-International Symposium in Biomedcial Imaging (ISBI)
-https://github.com/laplcebeltrami/sulcaltree/blob/main/chen.2023.ISBI.pdf
-
-Poster: https://github.com/laplcebeltrami/sulcaltree/blob/main/ISBI2023poster.pdf
+Chen, Z., Das, S., Chung, M.K. 2023, pSulcal Pattern Matching with the Wasserstein Distance](https://github.com/laplcebeltrami/sulcaltree/blob/main/chen.2023.ISBI.pdf), 
+International Symposium in Biomedcial Imaging (ISBI). [Poster version](https://github.com/laplcebeltrami/sulcaltree/blob/main/ISBI2023poster.pdf)
 
 
 SCRIPT1_dataPreprocess.m prepares data and performs heat kernel smoothing (Sections 2.1 and 2.2)
