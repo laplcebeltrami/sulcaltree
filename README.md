@@ -7,7 +7,7 @@
 The method and codes are published in 
 
 Chen, Z., Das, S., Chung, M.K. 2023, [Sulcal Pattern Matching with the Wasserstein Distance](https://github.com/laplcebeltrami/sulcaltree/blob/main/chen.2023.ISBI.pdf), 
-International Symposium in Biomedcial Imaging (ISBI). [Poster version](https://github.com/laplcebeltrami/sulcaltree/blob/main/ISBI2023poster.pdf)
+International Symposium in Biomedcial Imaging (ISBI). [Poster version](https://github.com/laplcebeltrami/sulcaltree/blob/main/ISBI2023poster.pdf). The following script will perform the basic sulcal pattern matching.
 
 
 SCRIPT1_dataPreprocess.m prepares data and performs heat kernel smoothing (Sections 2.1 and 2.2)
